@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 7b7ca4363f34ecc4fac8c6729c638c0d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 050239f8_4
+    100002: 247cc174_2
+    100004: 258752c4
+    100006: 258752c4_5
+    100008: 3b60467b_10
+    100010: //RootNode
+    100012: 4f5ebd220
+    100014: 4f5ebd221_8
+    100016: 4f5ebd222_9
+    100018: 4f5ebd22_3
+    100020: 734ed7bf_11
+    100022: 7db7b43b_0
+    100024: 8417507c
+    100026: d18d6e1f_6
+    400000: 050239f8_4
+    400002: 247cc174_2
+    400004: 258752c4
+    400006: 258752c4_5
+    400008: 3b60467b_10
+    400010: //RootNode
+    400012: 4f5ebd220
+    400014: 4f5ebd221_8
+    400016: 4f5ebd222_9
+    400018: 4f5ebd22_3
+    400020: 734ed7bf_11
+    400022: 7db7b43b_0
+    400024: 8417507c
+    400026: d18d6e1f_6
+    2300000: 050239f8_4
+    2300002: 247cc174_2
+    2300004: 258752c4
+    2300006: 258752c4_5
+    2300008: 3b60467b_10
+    2300010: 4f5ebd220
+    2300012: 4f5ebd221_8
+    2300014: 4f5ebd222_9
+    2300016: 4f5ebd22_3
+    2300018: 734ed7bf_11
+    2300020: 7db7b43b_0
+    2300022: 8417507c
+    2300024: d18d6e1f_6
+    3300000: 050239f8_4
+    3300002: 247cc174_2
+    3300004: 258752c4
+    3300006: 258752c4_5
+    3300008: 3b60467b_10
+    3300010: 4f5ebd220
+    3300012: 4f5ebd221_8
+    3300014: 4f5ebd222_9
+    3300016: 4f5ebd22_3
+    3300018: 734ed7bf_11
+    3300020: 7db7b43b_0
+    3300022: 8417507c
+    3300024: d18d6e1f_6
+    4300000: 050239f8_4
+    4300002: 247cc174_2
+    4300004: 258752c4
+    4300006: 258752c4_5
+    4300008: 3b60467b_10
+    4300010: 4f5ebd220
+    4300012: 4f5ebd221_8
+    4300014: 4f5ebd222_9
+    4300016: 4f5ebd22_3
+    4300018: 734ed7bf_11
+    4300020: 7db7b43b_0
+    4300022: 8417507c
+    4300024: d18d6e1f_6
+    6400000: 050239f8_4
+    6400002: 247cc174_2
+    6400004: 258752c4
+    6400006: 258752c4_5
+    6400008: 3b60467b_10
+    6400010: 4f5ebd220
+    6400012: 4f5ebd221_8
+    6400014: 4f5ebd222_9
+    6400016: 4f5ebd22_3
+    6400018: 734ed7bf_11
+    6400020: 7db7b43b_0
+    6400022: 8417507c
+    6400024: d18d6e1f_6
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

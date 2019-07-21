@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 3866cc7e3ffb9a148b8ad75e61a9ddb1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Mesh02_0
+    100002: Mesh03_1
+    100004: Mesh04_2
+    100006: Mesh06_3
+    100008: Mesh07_4
+    100010: Mesh08_5
+    100012: Mesh09_6
+    100014: Mesh16_7
+    100016: Mesh18_8
+    100018: Mesh19_9
+    100020: Mesh20_10
+    100022: Mesh21_11
+    100024: //RootNode
+    400000: Mesh02_0
+    400002: Mesh03_1
+    400004: Mesh04_2
+    400006: Mesh06_3
+    400008: Mesh07_4
+    400010: Mesh08_5
+    400012: Mesh09_6
+    400014: Mesh16_7
+    400016: Mesh18_8
+    400018: Mesh19_9
+    400020: Mesh20_10
+    400022: Mesh21_11
+    400024: //RootNode
+    2300000: Mesh02_0
+    2300002: Mesh03_1
+    2300004: Mesh04_2
+    2300006: Mesh06_3
+    2300008: Mesh07_4
+    2300010: Mesh08_5
+    2300012: Mesh09_6
+    2300014: Mesh16_7
+    2300016: Mesh18_8
+    2300018: Mesh19_9
+    2300020: Mesh20_10
+    2300022: Mesh21_11
+    3300000: Mesh02_0
+    3300002: Mesh03_1
+    3300004: Mesh04_2
+    3300006: Mesh06_3
+    3300008: Mesh07_4
+    3300010: Mesh08_5
+    3300012: Mesh09_6
+    3300014: Mesh16_7
+    3300016: Mesh18_8
+    3300018: Mesh19_9
+    3300020: Mesh20_10
+    3300022: Mesh21_11
+    4300000: Mesh02_0
+    4300002: Mesh03_1
+    4300004: Mesh04_2
+    4300006: Mesh06_3
+    4300008: Mesh07_4
+    4300010: Mesh08_5
+    4300012: Mesh09_6
+    4300014: Mesh16_7
+    4300016: Mesh18_8
+    4300018: Mesh19_9
+    4300020: Mesh20_10
+    4300022: Mesh21_11
+    6400000: Mesh02_0
+    6400002: Mesh03_1
+    6400004: Mesh04_2
+    6400006: Mesh06_3
+    6400008: Mesh07_4
+    6400010: Mesh08_5
+    6400012: Mesh09_6
+    6400014: Mesh16_7
+    6400016: Mesh18_8
+    6400018: Mesh19_9
+    6400020: Mesh20_10
+    6400022: Mesh21_11
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
